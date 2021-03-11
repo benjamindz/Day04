@@ -8,7 +8,7 @@ function main(){
     myY += 17;
     myZ -= 20;
 
-    return{
+    return {
         myX,
         myY,
         myZ
